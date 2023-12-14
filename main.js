@@ -1,13 +1,13 @@
     function downloadAPK() {
         // Substitua 'seu-arquivo.apk' pelo nome do seu arquivo APK
-        var apkUrl = './JadeApp.apk';
+        var apkUrl = './Jadeapp.apk';
         
         // Cria um elemento de âncora
         var link = document.createElement('a');
         link.href = apkUrl;
         
         // Atribui o nome do arquivo para download
-        link.download = 'JadeApp.apk';
+        link.download = 'Jadeapp.apk';
         
         // Adiciona o elemento de âncora ao corpo do documento
         document.body.appendChild(link);
