@@ -379,8 +379,8 @@ img{
 }
 
 .link__download {
-  text-decoration: underline;
-  color: #0000ff;
+  text-decoration: underline !important;
+  color: #0000ff !important;
 }
 
 /*========== FOOTER ==========*/
