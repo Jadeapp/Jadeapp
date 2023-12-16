@@ -369,6 +369,10 @@ img{
   font-family: var(--body-font);
 }
 
+  .bd-grid{
+    text-align: center;
+  }
+
 .send__input::placeholder{
   font-family: var(--body-font);
 }
